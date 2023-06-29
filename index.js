@@ -3,7 +3,7 @@ const imgCelular = '<img src="./imagens/celular1.png" alt="Logo de celular" />';
 const imgTelefone = '<img src="./imagens/telefone.png" alt="Logo de telefone" />';
 const contato = [];
 const numeros = [];
-const img = document.getElementById("tipo");
+const img = document.getElementById("cont");
 
 let linhas = '';
 
